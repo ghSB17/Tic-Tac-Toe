@@ -1,2 +1,3 @@
-###Tic-Tac-Toe Game
-**A simple App Created using React and firebase
+### Tic-Tac-Toe Game
+
+**A simple App Created using React and firebase**
